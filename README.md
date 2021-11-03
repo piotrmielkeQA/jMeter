@@ -1,1 +1,6 @@
-# jMeter_Scripts
+# jMeter
+
+This repository contains sample performance tests using jMeter.
+
+
+
